@@ -1,6 +1,5 @@
-# Magisk Manager
-PRODUCT_PACKAGES += \
-    MagiskManager
+# Default root Method := supersu/magisk
+DEFAULT_ROOT_METHOD := magisk
 
 # Magisk
 PRODUCT_COPY_FILES += \
