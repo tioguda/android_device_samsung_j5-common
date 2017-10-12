@@ -11,4 +11,4 @@ PRODUCT_PACKAGES += \
 
 # Adaway
 PRODUCT_COPY_FILES += \
-    vendor/tesla/prebuilt/common/app/adaway.apk:system/app/adaway.apk
+    $(LOCAL_PATH)/prebuilt/common/app/adaway.apk:system/app/adaway.apk
