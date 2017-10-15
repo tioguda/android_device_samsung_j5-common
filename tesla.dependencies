@@ -10,23 +10,5 @@
     "repository":  "Galaxy-MSM8916/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "branch":      "cm-14.1"
-  },
-  {
-    "remote":      "github",
-    "repository":  "TeslaRom-N/KernelAdiutor",
-    "target_path": "packages/apps/KernelAdiutor",
-    "branch":      "n7.1.2"    
-  },
-  {
-    "remote":      "github",
-    "repository":  "TeslaRom-N/FloatingActionButton",
-    "target_path": "packages/apps/FloatingActionButton",
-    "branch":      "n7.1.2"
-  },
-  {
-    "remote":      "github",
-    "repository":  "tioguda/OTAUpdates",
-    "target_path": "packages/apps/OTAUpdates",
-    "branch":      "aosp"
   }
 ]
